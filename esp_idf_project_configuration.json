@@ -1,0 +1,54 @@
+{
+  "level5": {
+    "build": {
+      "compileArgs": [],
+      "ninjaArgs": [],
+      "buildDirectoryPath": "build.level5",
+      "sdkconfigDefaults": [
+        "sdkconfig.defaults.level5"
+      ],
+      "sdkconfigFilePath": "sdkconfig.level5"
+    },
+    "env": {},
+    "flashBaudRate": "",
+    "idfTarget": "",
+    "monitorBaudRate": "",
+    "openOCD": {
+      "debugLevel": 0,
+      "configs": [],
+      "args": []
+    },
+    "tasks": {
+      "preBuild": "echo build level5",
+      "preFlash": "echo flash level5",
+      "postBuild": "echo build done level5",
+      "postFlash": "echo flash done level5"
+    }
+  },
+  "level3": {
+    "build": {
+      "compileArgs": [],
+      "ninjaArgs": [],
+      "buildDirectoryPath": "build.level3",
+      "sdkconfigDefaults": [
+        "sdkconfig.defaults.level3"
+      ],
+      "sdkconfigFilePath": "sdkconfig.level3"
+    },
+    "env": {},
+    "flashBaudRate": "",
+    "idfTarget": "",
+    "monitorBaudRate": "",
+    "openOCD": {
+      "debugLevel": 0,
+      "configs": [],
+      "args": []
+    },
+    "tasks": {
+      "preBuild": "echo build level3",
+      "preFlash": "echo flash level3",
+      "postBuild": "echo build done level3 ",
+      "postFlash": "echo flash done level3"
+    }
+  }
+}
