@@ -3,7 +3,7 @@
         {
             "name": "ESP-IDF",
             "compilerPath": "${config:idf.toolsPathWin}undefined",
-            "compileCommands": "build.level3\\compile_commands.json",
+            "compileCommands": "D:\\Test\\hello_world\\build.level3\\compile_commands.json",
             "includePath": [
                 "${config:idf.espIdfPath}/components/**",
                 "${config:idf.espIdfPathWin}/components/**",

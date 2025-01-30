@@ -3,11 +3,11 @@
     "build": {
       "compileArgs": [],
       "ninjaArgs": [],
-      "buildDirectoryPath": "build.level5",
+      "buildDirectoryPath": "D:/Test/hello_world/build.level5",
       "sdkconfigDefaults": [
-        "sdkconfig.defaults.level5"
+        "D:/Test/hello_world/sdkconfig.defaults.level5"
       ],
-      "sdkconfigFilePath": "sdkconfig.level5"
+      "sdkconfigFilePath": "D:/Test/hello_world/sdkconfig.level5"
     },
     "env": {},
     "flashBaudRate": "",
@@ -29,11 +29,11 @@
     "build": {
       "compileArgs": [],
       "ninjaArgs": [],
-      "buildDirectoryPath": "build.level3",
+      "buildDirectoryPath": "D:/Test/hello_world/build.level3",
       "sdkconfigDefaults": [
-        "sdkconfig.defaults.level3"
+        "D:/Test/hello_world/sdkconfig.defaults.level3"
       ],
-      "sdkconfigFilePath": "sdkconfig.level3"
+      "sdkconfigFilePath": "D:/Test/hello_world/sdkconfig.level3"
     },
     "env": {},
     "flashBaudRate": "",
